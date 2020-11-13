@@ -17,8 +17,8 @@ int main(int argc, char *argv[]) {
 	{ 
 		{ "LIST", optional_argument, NULL, 'l' },
 		{ "HELP", no_argument, NULL, 'h' },
-		{ "VALUE", optional_argument, NULL, 'V' },
-		{ "VERSION", }
+		{ "VALUE", optional_argument, NULL, 'v' },
+		{ "VERSION", optional_argument, NULL, 'V'}
 		{ NULL, 0, NULL, 0 }
 	};
 
