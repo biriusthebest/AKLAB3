@@ -1,6 +1,6 @@
 AK LAB 3
 
-MADE BY PALEKHA BOHDAN
+Зроблено Палехою Богданом ІО-83
 
 
 ARGUMENTS:
